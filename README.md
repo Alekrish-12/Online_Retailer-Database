@@ -38,6 +38,11 @@ WHERE o.order_date >= DATE_SUB(CURDATE(), INTERVAL 1 MONTH)
 GROUP BY c.customer_id, c.first_name, c.last_name
 ORDER BY total_spent DESC
 LIMIT 1;
+
+#OUTPUT :
+
+![Screenshot (82)](https://github.com/Alekrish-12/Online_Retailer-Database/assets/170092296/a35907fa-de81-4de7-ba75-c394213895b1)
+
 Conclusion
 The Online Retailer Database project demonstrates proficiency in database design and SQL querying techniques. By implementing the specified requirements, it provides a foundation for managing transactional data efficiently in an online retail environment.
 
