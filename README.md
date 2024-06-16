@@ -1,4 +1,4 @@
-# Online_Retailer-Database
+# WINAIM-Assignment - Online_Retailer-Database
 Objective
 The Online Retailer Database project aims to evaluate the ability to work with transactional data, aggregate functions, and subqueries. By designing a comprehensive database schema and writing SQL queries to perform various operations on the data, this project assesses proficiency in database management and querying.
 
